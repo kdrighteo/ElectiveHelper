@@ -15,7 +15,7 @@ function App() {
 
 
 
-      <footer className ="col-sm-12 bg-black text-white text-[10px] h-16 p-4" >
+      <footer className ="col-sm-12 bg-zinc-700 text-white text-[10px] h-16 p-4" >
         <div className = "col-sm-12">
           <div className ="flex justify-between">
             <div className = "col-sm-8 flex justify-start">
