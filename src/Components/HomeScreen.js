@@ -28,8 +28,8 @@ const HomeScreen = () => {
             </div>
             <div className=" h-20 bg-white">
                 <div className=" h-20 flex justify-start items-center">
-                    <div className=" h-16 w-16 rounded-full shadow- hover:shadow-md flex justify-center items-center m-5 bg-gray-300">
-                        <h6>Pic</h6>
+                    <div className=" h-16 w-16 rounded-full flex justify-center items-center m-5 bg-gray-300">
+                    <img className="h-16 shadow- hover:shadow-md" src="profile-picture-circle-hd.png" alt=""/>   
                     </div>
                     <h4 className=" m-5 hover:underline">ID number</h4>
                     <button className=" m-10 text-blue-400 font-semibold">Logout</button>
